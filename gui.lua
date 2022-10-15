@@ -57,7 +57,7 @@ local Themes = {
 		BannerAccent = Color3.fromRGB(55,55,55),
 		Content = Color3.fromRGB(85,85,85),
 		Button = Color3.fromRGB(85,85,85),
-		ButtonAccent = Color3.fromRGB(55,55,55),
+		ButtonAccent = Color3.fromRGB(255,255,255),
 		ChipSet = Color3.fromRGB(235,235,235),
 		ChipSetAccent = Color3.fromRGB(85,85,85),
 		DataTable = Color3.fromRGB(235,235,235),
@@ -70,7 +70,7 @@ local Themes = {
 		DropdownAccent = Color3.fromRGB(235,235,235),
 		ColorPicker = Color3.fromRGB(85,85,85),
 		ColorPickerAccent = Color3.fromRGB(235,235,235),
-		TextField = Color3.fromRGB(175,175,175),
+		TextField = Color3.fromRGB(255,255,255),
 		TextFieldAccent = Color3.fromRGB(255,255,255),
 	},
 	Mocha = {
